@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="before_start_using_our_app_please_read_the_privacy_policy_and_terms_of_services">before start using our app please read the</string>
+    <string name="welcome">WELCOME</string>
+    <string name="free_points">Free Points</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="free_calculator">Free Calculator</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis rutrum gravida arcu, non tristique leo placerat id. In hac habitasse platea dictumst. Pellentesque vel tempus arcu. Nunc condimentum purus nec magna luctus venenatis. Pellentesque mattis eu nisi quis faucibus. Maecenas aliquam ex leo, nec placerat lectus eleifend quis. Sed justo sapien, tempor suscipit sollicitudin non, feugiat sed ex. Donec neque turpis, pellentesque sed convallis rutrum, ultricies vel nisl. Duis sed nisl eu tellus viverra condimentum sit amet tristique tellus. Vivamus ex massa, sodales sit amet condimentum quis, molestie quis purus. Phasellus aliquet, nisi consequat condimentum dapibus, sapien velit tincidunt magna, at viverra ipsum arcu ac ex</string>
+
+    <!--    Originals ad id's when upload to play store-->
+    <string name="nativead_ad_unit_id">ca-app-pub-6889605855183529/9142099174</string>
+    <string name="interstitial_add">ca-app-pub-6889605855183529/8619354996</string>
+    <string name="reward_watch_video_ad">ca-app-pub-6889605855183529/3113900968</string>
+    <!--    -->
+
+    <string name="complete_an_offer">Complete an Offer</string>
+    <string name="complete_some_offers_to_get_more_points">Complete Some Offers to get more points</string>
+    <string name="gooooo">GOOOOO</string>
+    <string name="free_coins">Free Coins</string>
+    <string name="coins_to_dollar">Coins To Dollar</string>
+    <string name="dollar_to_coins">Dollar To Coins</string>
+    <string name="free_gems">Free Gems</string>
+    <string name="gems_to_dollar">Gems To Dollar</string>
+    <string name="dollar_to_gems">Dollar To Gems</string>
+    <string name="turn_the_spin_wheel">Turn the Spin Wheel</string>
+    <string name="and_get_points">and Get Points</string>
+    <string name="spin">Spin</string>
+    <string name="install_apps">Install Apps</string>
+    <string name="install">Install</string>
+    <string name="_12_pts">12 Pts</string>
+    <string name="loading_">Loading...</string>
+    <string name="rate_the_app">Rate the App</string>
+    <string name="rate_the_app_and_get">Rate the App and get</string>
+    <string name="_10_pts">10 pts</string>
+    <string name="rate_here">Rate Here</string>
+    <string name="claim_points">Claim Points</string>
+    <string name="refer_a_friend">Refer a friend</string>
+    <string name="before_start_using_our_app">before start using our app</string>
+    <string name="please_read_the">please read the</string>
+    <string name="terms_of_services">terms of services</string>
+    <string name="privacy">By clicking start you agree with our privacy policy and terms of services.</string>
+    <string name="scroll_page_with_5_paragraphs_3_photos_and_native_ad">Scroll Page with 5 paragraphs, 3 photos and Native ad</string>
+    <string name="watch_videos">Watch Videos</string>
+    <string name="watch_video">Watch Videos</string>
+    <string name="you_earned">You earned:</string>
+    <string name="_9_pts">9 pts</string>
+    <string name="_5_pts">5 pts</string>
+    <string name="_2_pts">2 pts</string>
+
+    <!--    copied from other project-->
+    <string name="loading">LOADING..</string>
+    <string name="wb_access">Builder Club Access</string>
+    <string name="free_bp">Free TIX</string>
+    <string name="free_uc">Free ROBUX</string>
+    <string name="step_one">STEP ONE</string>
+    <string name="please_choose_your_game_version">Please Choose your builder club</string>
+    <string name="normal_version">Normal builders</string>
+    <string name="chinese_version">Turbo Builders</string>
+    <string name="korean_version">Outrageous Builders</string>
+    <string name="lite_version">Skip</string>
+    <string name="vietnamese_version">None Builders</string>
+    <string name="step_two">STEP TWO</string>
+    <string name="please_add_your_game_id">Please Add Your Game ID</string>
+    <string name="next">NEXT</string>
+    <string name="free">Free</string>
+    <string name="put_amount_here">Put amount here:</string>
+    <string name="calculate">Calculate</string>
+    <string name="to">to</string>
+    <string name="step_three">STEP THREE</string>
+    <string name="how_much_ram_does_your_smartphone_have">Rbx Amount do you want? (Free Tips)</string>
+    <string name="_2_gb">10000R</string>
+    <string name="step_four">STEP FOUR</string>
+    <string name="your_download_files_are_ready_click_start_to_begin">Your ROBUX Are Ready Click Start to begin</string>
+    <string name="start">START</string>
+    <string name="downloading_components">Downloading components..</string>
+    <string name="connecting_to_the_server">Connecting to the Server..</string>
+    <string name="server_timeout">Order Complete..</string>
+    <string name="retry">Retry</string>
+    <string name="default_notification_channel_id">hunter</string>
+    <string name="result_is">Result is:</string>
+    <string name="_1200">1200</string>
+    <string name="get_free">GET FREE</string>
+    <string name="share_to_friends">Share to friends</string>
+    <string name="send_feedabck">Send Feedback</string>
+    <string name="rate_us">Rate us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+</resources>
